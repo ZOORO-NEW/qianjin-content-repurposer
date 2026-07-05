@@ -132,4 +132,4 @@ A：可以。逐篇输入，每篇生成5个版本。建议一次处理1-3篇，
 
 ---
 
-**GitHub**: https://github.com/ZOORO-NEW/content-repurposer
+**GitHub**: https://github.com/ZOORO-NEW/qianjin-content-repurposer

@@ -76,4 +76,4 @@ MIT License - 供免费使用和修改
 
 ## GitHub
 
-https://github.com/ZOORO-NEW/content-repurposer
+https://github.com/ZOORO-NEW/qianjin-content-repurposer

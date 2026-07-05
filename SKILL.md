@@ -1,5 +1,5 @@
 ---
-name: content-repurposer
+name: qianjin-content-repurposer
 version: 1.0
 author: qianjin
 description: 一鱼多吃内容转化引擎 - 一篇文章自动拆分生成5个平台专业内容
@@ -347,7 +347,7 @@ xxx
 - `prompts/system-prompt-en.md` — 通用英文System Prompt
 - `PLATFORMS.md` — 跨平台适配指南
 
-**GitHub仓库**：https://github.com/ZOORO-NEW/content-repurposer
+**GitHub仓库**：https://github.com/ZOORO-NEW/qianjin-content-repurposer
 
 详细参考文件见 `references/` 目录：
 - `platform-specs.md` — 5平台详细规格（字数/格式/算法/推荐机制）
