@@ -1,6 +1,6 @@
 # 一鱼多吃内容转化引擎 | Content Repurposer
 
-> 一篇文章，自动拆分生成6个平台专业内容。不是搬运，是深加工。
+> 一篇文章，自动拆分生成6个平台专业内容。小红书/公众号含配图方案，不是搬运，是深加工。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -16,6 +16,8 @@
 | 知乎 | 认知增量 | 1500-2000字 | 专业老师 |
 | B站 | 信息密度+节奏 | 8-12分钟 | UP主 |
 | 视频号 | 有道理+有用 | 60-90秒 | 前辈聊天 |
+
+> **小红书和公众号额外输出配图方案**：每张配图含类型、尺寸、色调、图上文字、AI生成提示词，可直接用于AI图片生成工具。
 
 ## 核心理念
 
@@ -47,9 +49,10 @@ content-repurposer/
 │   ├── system-prompt-zh.md          # 通用中文System Prompt
 │   └── system-prompt-en.md          # 通用英文System Prompt
 └── references/
-    ├── platform-specs.md            # 6平台详细规格（推荐机制/内容特征/标题公式）
+    ├── platform-specs.md            # 6平台详细规格（推荐机制/内容特征/标题公式/配图规格）
     ├── transformation-rules.md      # 转化规则库（句式映射/结构重组/语气切换）
-    └── quality-checklist.md         # 质量检查表（每平台评分标准）
+    ├── quality-checklist.md         # 质量检查表（每平台评分标准，含配图检查）
+    └── image-design-guide.md        # 配图设计指南（小红书/公众号配图类型+AI生成提示词）
 ```
 
 ## 转化效果参考

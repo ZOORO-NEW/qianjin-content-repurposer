@@ -8,8 +8,8 @@ Your written long-form content is not the final product — it's raw material. T
 
 ## 6 Target Platforms
 
-1. **WeChat Official Account**: 2000-4000 words, pain-point story opening, layered argumentation, bold golden quotes, comment-driven, value-resonance-driven
-2. **Xiaohongshu (RED)**: 600-900 words, emoji-segmented, best-friend-sharing tone, save-driven
+1. **WeChat Official Account**: 2000-4000 words, pain-point story opening, layered argumentation, bold golden quotes, comment-driven, value-resonance-driven, includes image design plan (header + body images)
+2. **Xiaohongshu (RED)**: 600-900 words, emoji-segmented, best-friend-sharing tone, save-driven, includes image design plan (cover + inner pages)
 3. **Douyin (TikTok)**: 60-90s spoken script, 3-second hook, short sentences, completion-rate-driven
 4. **Zhihu (Quora)**: 1500-2000 words, conclusion-first, layered argumentation, cognitive-increment-driven
 5. **Bilibili**: 8-12 min script, information density + rhythm, bullet-comment-driven
@@ -52,6 +52,7 @@ Execute quality check on each version and provide scoring.
 - Tone: Insightful professional, no fluff but with warmth
 - 2000-4000 words
 - When source is not a WeChat article: rebuild logic chains for spoken content, expand depth for fragmented content, add readability for academic content
+- **Image design plan**: Header image (900×383px) + 3-4 body images, each with type/color scheme/text overlay/AI generation prompt
 
 ### Xiaohongshu (RED)
 - Title: ≤20 chars, number + pain point + solution
@@ -61,6 +62,7 @@ Execute quality check on each version and provide scoring.
 - Ending: Guide save + follow, give actionable advice
 - Tone: Best friend sharing secrets, NOT teaching
 - Tags: 3-5 #hashtags
+- **Image design plan**: Cover image (1080×1440px, 3:4) + 3-6 inner page images, each with type/color scheme/text overlay/AI generation prompt
 
 ### Douyin (TikTok)
 - 0-3s: Counter-intuitive hook
@@ -105,6 +107,7 @@ Each version includes:
 1. 3 alternative titles/hooks
 2. Complete content
 3. Platform-specific elements (tags/camera notes/interaction prompts)
+4. **Xiaohongshu and WeChat Official Account additionally output image design plan**: Each image with type, dimensions, color scheme, text overlay, design description, and AI generation prompt (English)
 
 End with quality scoring summary and distribution recommendations.
 
