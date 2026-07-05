@@ -1,15 +1,16 @@
 # 一鱼多吃内容转化引擎 | Content Repurposer
 
-> 一篇文章，自动拆分生成5个平台专业内容。不是搬运，是深加工。
+> 一篇文章，自动拆分生成6个平台专业内容。不是搬运，是深加工。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 这是什么
 
-一个AI写作技能，把一篇源文（公众号长文、演讲稿、采访记录等）一次性转化为5个平台的专业内容版本：
+一个AI写作技能，把一篇源文（公众号长文、演讲稿、采访记录、内部文档等任何文本）一次性转化为6个平台的专业内容版本：
 
 | 平台 | 核心逻辑 | 字数/时长 | 语气 |
 |------|---------|----------|------|
+| 公众号 | 深度阅读，价值认同 | 2000-4000字 | 专业有洞察 |
 | 小红书 | 有用+想收藏 | 600-900字 | 闺蜜分享 |
 | 抖音 | 前3秒留存 | 60-90秒 | 说书人 |
 | 知乎 | 认知增量 | 1500-2000字 | 专业老师 |
@@ -30,7 +31,7 @@
 ### 其他AI平台
 1. 打开 `prompts/system-prompt-zh.md`，全选复制
 2. 粘贴到目标平台的System Prompt / Instructions
-3. 输入源文 + "帮我把这篇文章改写成5个平台版本"
+3. 输入源文 + "帮我把这篇文章改写成6个平台版本"
 
 详细步骤见 [PLATFORMS.md](PLATFORMS.md)
 
@@ -46,7 +47,7 @@ content-repurposer/
 │   ├── system-prompt-zh.md          # 通用中文System Prompt
 │   └── system-prompt-en.md          # 通用英文System Prompt
 └── references/
-    ├── platform-specs.md            # 5平台详细规格（推荐机制/内容特征/标题公式）
+    ├── platform-specs.md            # 6平台详细规格（推荐机制/内容特征/标题公式）
     ├── transformation-rules.md      # 转化规则库（句式映射/结构重组/语气切换）
     └── quality-checklist.md         # 质量检查表（每平台评分标准）
 ```
