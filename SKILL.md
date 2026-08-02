@@ -3,6 +3,13 @@ name: qianjin-content-repurposer
 version: 1.0
 author: qianjin
 description: 一鱼多吃内容转化引擎 - 一篇文章自动拆分生成6个平台专业内容（小红书/公众号含配图方案）
+category: 内容创作
+platforms:
+  - workbuddy
+  - claude-code
+  - cursor
+  - windsurf
+  - codex
 trigger:
   - 一鱼多吃
   - 内容分发
