@@ -4,7 +4,7 @@ displayName: 一鱼多吃内容转化引擎
 summary: "一鱼多吃内容转化引擎 - 一篇文章自动拆分生成6个平台专业内容（小红书/公众号含配图方案）"
 license: MIT
 name: qianjin-content-repurposer
-version: 1.0.0
+version: 1.0.1
 author: qianjin
 description: 一鱼多吃内容转化引擎 - 一篇文章自动拆分生成6个平台专业内容（小红书/公众号含配图方案）
 category: 内容创作
